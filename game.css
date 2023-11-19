@@ -1,0 +1,16 @@
+.input{
+    font-size:30px;
+    text-align:center;
+    color:green;
+    font-weight:bold;
+}
+.svgg{
+    display:flex;
+    justify-content:center;
+}
+#win{
+    font-size:35px;
+    text-align:center;
+    font-weight:bold;
+}
+
